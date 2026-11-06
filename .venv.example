@@ -1,0 +1,11 @@
+SECRET_KEY=chang-me
+DEBUG=True
+ALLOWED_HOSTS=your hosts
+DATABASE_NAME=your_database_name
+DATABASE_USER=your_database_user
+DATABASE_PASSWORD=your_database_password
+DATABASE_HOST=your_database_localhost
+DATABASE_PORT=your_database_port
+DATABASE_SCHEMA=your_database_schema
+OPENAI_APIKEY=your_api_ky
+OPENAI_MODEL=your_model
